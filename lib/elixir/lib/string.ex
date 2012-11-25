@@ -252,7 +252,7 @@ defmodule String do
 
   @doc """
   Returns a string where leading/trailing char have been
-  removed. If no `char` is passed `space`is used.
+  removed. If no `char` is passed `whitespace characters` are used.
 
   ## Examples
 
